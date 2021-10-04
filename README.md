@@ -1,11 +1,13 @@
-# Tip Calculator Project, By Dario Pena
+# Tip Calculator Project: "The Tipulator"
 
-# This tip calculator will divide the food bill by the amount of people paying into the bill.
+# The tip calculator will output a thank you note to the customer for using the app.
 
-# The person or persons will first enter their names upon request in the prompt.
+# The tip calculator will output a well wish to the customer for the enjoyment of his/her meal.
 
-# The person or persons will then enter the total amount for the bill in the prompt upon request.
+# The tip calculator will ask for the total amount of the bill.
 
-# The person or persons will then enter the tip percentage in the prompt upon request.
+# The tip calculator will ask for the tip percentage amount.
 
-# The tip calculator will then divide the bill and output the tip evenly amongst the number of people.
+# The tip calculator will ask for the number of persons splitting the bill.
+
+# The tip calculator will then output the payment, including the tip, and a 10% sales tax, for the number of people in equal amount.
