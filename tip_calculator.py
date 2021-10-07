@@ -38,7 +38,8 @@ split_bill = int(input('How many people splitting the bill?: '))
 # The variable "payments" will output the amount that each person will pay, based on the tip percentage (which is 
 # divided by a hundred), multiplied by the total bill, and divided by the total number of people entered by the customer.
 
-# The tip calculator will then calculate the amount each person will pay, including tip amount.
+# The tip calculator will then calculate the amount each person will pay, including tip amount, 
+# and add the 10% sales tax.
 
 payments = (float(tip/100 + 1)* bill)/split_bill + tax/split_bill
 payments = round(payments, 2)
