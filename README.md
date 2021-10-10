@@ -1,19 +1,23 @@
 # Tip Calculator Project: "The Tipulator"
 
-# The tip calculator will output on the first line a thank you note to the customer for using the app.
+# Consulted and used code snippet from website: https://medium.com on Google. 
 
-# The tip calculator will output on the second line a well wish to the customer for the enjoyment of his/her meal.
+# The tip calculator will output on the first line of the terminal, a thank you note to the customer for using the app.
+
+# The tip calculator will output on the second line of the terminal, a well wish to the customer for the enjoyment of his/her meal.
 
 # The tip calculator will ask on the third line for the total bill of the food.
 
-# The tip calculator will ask on the fourth line for the tip percentage amount.
+# The tip calculator will output on the fourth line of the terminal, asking for the tip percentage amount.
 
-# The tip calculator will ask on the fifth line for the number of persons splitting the bill.
+# The tip calculator will output on the fifth line of the terminal, asking the number of persons splitting the bill.
 
-# The tip calculator will then calculate the bill, divide the tip percentage amount as a float by 100, adding the resulting number to the bill, adding a 10% sales tax to the resulting number.
+# The tip calculator will then calculate the total bill, dividing the tip percentage number by 100 as a float or decimal number, adding the resulting number to the bill, and adding a 10% sales tax to the resulting number.
 
-# The tip calculator will output on the sixth line the total amount of the bill by dividing the total bill by the split bill as a float, or decimal number.
+# The tip calculator will calculate the total amount each person will pay by dividing the total bill by the split bill.
 
-# The tip calculator will then round the resulting number that each person will pay with two decimal numbers behind the decimal point.
+# The tip calculator will then round the resulting number that each person will pay as a float with two decimal numbers behind the decimal point.
 
-# The tip calculator will output the equal amount that each person will pay to the terminal as a float, or decimal number.
+# The tip calculator will output to the sixth line of the terminal the total bill, including tip and tax.
+
+# The tip calculator will output to the seventh line of the terminal the equal amount that each person will pay as a float, or decimal number.
